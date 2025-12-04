@@ -1,6 +1,6 @@
 # Technical Documentation
 
-Multi-Tenant Log Processor | v1.0.0 | December 2024
+Multi-Tenant Log Processor 
 
 ---
 
