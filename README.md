@@ -13,8 +13,7 @@ Event-driven backend system for high-throughput log ingestion with strict tenant
 ## 🚀 Live Demo
 
 **API Endpoint:** https://ingestion-api-1092727309970.us-central1.run.app  
-**Demo Video:** `[Add your video link here]`
-
+**Demo Video:** https://drive.google.com/file/d/1Y7lKYRkWzfBi9_pDO1vgiwsHREnQUrUf/view?usp=sharing
 ```bash
 # Try it now
 curl -X POST https://ingestion-api-1092727309970.us-central1.run.app/ingest \
