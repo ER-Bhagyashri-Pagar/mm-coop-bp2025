@@ -7,8 +7,6 @@ Event-driven backend system for high-throughput log ingestion with strict tenant
 [![GCP](https://img.shields.io/badge/GCP-Cloud%20Run-orange.svg)](https://cloud.google.com/run)
 [![Status](https://img.shields.io/badge/Status-Live-success.svg)](https://ingestion-api-1092727309970.us-central1.run.app)
 
-**Built for:** Memory Machines Backend Engineering Assignment  
-**By:** Bhagyashri Pagar
 
 ---
 
