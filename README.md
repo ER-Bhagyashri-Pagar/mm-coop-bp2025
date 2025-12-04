@@ -17,6 +17,15 @@ Event-driven backend system for high-throughput log ingestion with strict tenant
 **API Endpoint:** https://ingestion-api-1092727309970.us-central1.run.app  
 **Demo Video:** `[Add your video link here]`
 
+```bash
+# Try it now
+curl -X POST https://ingestion-api-1092727309970.us-central1.run.app/ingest \
+  -H "Content-Type: application/json" \
+  -d '{"tenant_id":"demo","log_id":"001","data":"Test message 555-0199"}'
+
+# Returns: 202 Accepted in <200ms
+```
+
 ---
 
 ## 📖 Overview
@@ -255,7 +264,7 @@ gcloud builds submit --tag gcr.io/$PROJECT_ID/ingestion-api
 gcloud run deploy ingestion-api --image gcr.io/$PROJECT_ID/ingestion-api ...
 ```
 
-**Full deployment guide:** [DOCUMENTATION.md](DOCUMENTATION.md)
+**Full deployment guide:** [Documentation](Documentation/documentation.md)
 
 ---
 
@@ -281,7 +290,7 @@ Cloud Run scales from 0 to 10 instances automatically. Pay only for actual usage
 
 ## 📚 Documentation
 
-**[DOCUMENTATION.md](DOCUMENTATION.md)** - Complete technical guide:
+**[Technical Documentation](Documentation/documentation.md)** - Complete technical guide:
 - Detailed architecture explanation
 - Step-by-step deployment
 - Crash recovery scenarios
@@ -296,4 +305,3 @@ Cloud Run scales from 0 to 10 instances automatically. Pay only for actual usage
 **Bhagyashri Avinash Pagar**
 
 - Email: bpagar14@gmail.com
-
