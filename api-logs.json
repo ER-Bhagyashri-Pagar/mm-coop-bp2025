@@ -1,0 +1,2002 @@
+[
+  {
+    "insertId": "692e36820000ccf590e90de5",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9250 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:50.052469Z"
+  },
+  {
+    "insertId": "692e36820000cbba35dda627",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146194586478950 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:50.052154Z"
+  },
+  {
+    "insertId": "692e368200006d2da10f5ed0",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9236 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:50.027949Z"
+  },
+  {
+    "insertId": "692e368200006c806aebe17f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144829119980151 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:50.027776Z"
+  },
+  {
+    "insertId": "692e3682000019e0a47af715",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9230 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:50.006624Z"
+  },
+  {
+    "insertId": "692e3682000019247c5ae533",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17145478997770151 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:50.006436Z"
+  },
+  {
+    "insertId": "692e3681000f00b93adeb208",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9222 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.983225Z"
+  },
+  {
+    "insertId": "692e3681000f000d04c2d650",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140654487644318 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.983053Z"
+  },
+  {
+    "insertId": "692e3681000eadd584d5ade2",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9210 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.962005Z"
+  },
+  {
+    "insertId": "692e3681000ead0f930bb280",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144814701464855 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.961807Z"
+  },
+  {
+    "insertId": "692e3681000e5fd60dd0740f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9196 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.942038Z"
+  },
+  {
+    "insertId": "692e3681000e5eeef00a8ef3",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140578258143949 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.941806Z"
+  },
+  {
+    "insertId": "692e3681000e046e057f858c",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9190 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.918638Z"
+  },
+  {
+    "insertId": "692e3681000e03a1366c712b",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144427240311175 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.918433Z"
+  },
+  {
+    "insertId": "692e3681000dae62c1c13d97",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9182 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.896610Z"
+  },
+  {
+    "insertId": "692e3681000dad671bdeea21",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140343013813043 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.896359Z"
+  },
+  {
+    "insertId": "692e3681000d59801a1a297a",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9174 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.874880Z"
+  },
+  {
+    "insertId": "692e3681000d58c7290561b4",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144138654119261 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.874695Z"
+  },
+  {
+    "insertId": "692e3681000d064f267045f4",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9158 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.853583Z"
+  },
+  {
+    "insertId": "692e3681000d058a6c108e1e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17139089041817243 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.853386Z"
+  },
+  {
+    "insertId": "692e3681000c97e190b08cdd",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9152 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.825313Z"
+  },
+  {
+    "insertId": "692e3681000c96a63da4313e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140863601359480 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.824998Z"
+  },
+  {
+    "insertId": "692e3681000c3cbfdbc69cec",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9136 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.801983Z"
+  },
+  {
+    "insertId": "692e3681000c3c0856a99a41",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140627453618715 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.801800Z"
+  },
+  {
+    "insertId": "692e3681000be388fa21a57f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9132 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.779144Z"
+  },
+  {
+    "insertId": "692e3681000be2d801f5b538",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143708039617484 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.778968Z"
+  },
+  {
+    "insertId": "692e3681000b9368300b3766",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9130 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.758632Z"
+  },
+  {
+    "insertId": "692e3681000b92aed93e41f9",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146176700817316 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.758446Z"
+  },
+  {
+    "insertId": "692e3681000b42bd37a0af78",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:50.060323611Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9122 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.737981Z"
+  },
+  {
+    "insertId": "692e3681000b41fe50e96b2a",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:50.057731759Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143993652862448 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.737790Z"
+  },
+  {
+    "insertId": "692e3681000af2dea507be00",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9116 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.717534Z"
+  },
+  {
+    "insertId": "692e3681000af221160ded43",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17145471312956316 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.717345Z"
+  },
+  {
+    "insertId": "692e3681000aa3775f0c6269",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9112 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.697207Z"
+  },
+  {
+    "insertId": "692e3681000aa2b3ed570ef6",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143460434514386 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.697011Z"
+  },
+  {
+    "insertId": "692e3681000a52edc1e0164e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9102 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.676589Z"
+  },
+  {
+    "insertId": "692e3681000a520e42adbe45",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144256733333942 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.676366Z"
+  },
+  {
+    "insertId": "692e36810009fd49f2b19277",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9088 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.654665Z"
+  },
+  {
+    "insertId": "692e36810009fc7ff92f065f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140347786847380 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.654463Z"
+  },
+  {
+    "insertId": "692e36810009aaf19ccfad38",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9086 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.633585Z"
+  },
+  {
+    "insertId": "692e36810009a9fad2709b48",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143649760638882 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.633338Z"
+  },
+  {
+    "insertId": "692e36810009527d3bd35ad6",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9078 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.610941Z"
+  },
+  {
+    "insertId": "692e36810009515d7b7f2567",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146177181170810 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.610653Z"
+  },
+  {
+    "insertId": "692e36810008ea1c751c4bdd",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9076 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.584220Z"
+  },
+  {
+    "insertId": "692e36810008e956e865877b",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144606428174633 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.584022Z"
+  },
+  {
+    "insertId": "692e3681000896186f92c065",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9064 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.562712Z"
+  },
+  {
+    "insertId": "692e368100089561b23ada2c",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140453826747994 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.562529Z"
+  },
+  {
+    "insertId": "692e368100083740498248a9",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9054 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.538432Z"
+  },
+  {
+    "insertId": "692e36810008365a6992f32a",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144710108075313 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.538202Z"
+  },
+  {
+    "insertId": "692e36810007e1f7654c108c",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9050 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.516599Z"
+  },
+  {
+    "insertId": "692e36810007e11c721c2d36",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146872349172890 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.516380Z"
+  },
+  {
+    "insertId": "692e368100078f247766f26a",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9040 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.495396Z"
+  },
+  {
+    "insertId": "692e368100078e3546ab5be6",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140782359425404 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.495157Z"
+  },
+  {
+    "insertId": "692e3681000737443a0b0826",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9028 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.472900Z"
+  },
+  {
+    "insertId": "692e36810007363e222f1ef2",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143852755781726 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.472638Z"
+  },
+  {
+    "insertId": "692e36810006e497ab38767d",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9022 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.451735Z"
+  },
+  {
+    "insertId": "692e36810006e3df38940517",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143774006818981 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.451551Z"
+  },
+  {
+    "insertId": "692e3681000692223c7cd50f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9016 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.430626Z"
+  },
+  {
+    "insertId": "692e36810006913caa9769a2",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140237694672125 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.430396Z"
+  },
+  {
+    "insertId": "692e368100063d359c0a930e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.726589835Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9006 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.408885Z"
+  },
+  {
+    "insertId": "692e368100063c506531eefb",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17143043206190511 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.408656Z"
+  },
+  {
+    "insertId": "692e36810005edce61b62e8a",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:9000 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.388558Z"
+  },
+  {
+    "insertId": "692e36810005ed0b819a4539",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.725641656Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17141240856248634 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.388363Z"
+  },
+  {
+    "insertId": "692e368100059b376bcf279d",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8990 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.367415Z"
+  },
+  {
+    "insertId": "692e368100059a743aedc089",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17141240601019317 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.367220Z"
+  },
+  {
+    "insertId": "692e3681000544a78e87fc0e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8984 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.345255Z"
+  },
+  {
+    "insertId": "692e3681000543d8e2031d87",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140098888401221 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.345048Z"
+  },
+  {
+    "insertId": "692e36810004f44f791a73f6",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8974 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.324687Z"
+  },
+  {
+    "insertId": "692e36810004f397194c9610",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140514100986612 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.324503Z"
+  },
+  {
+    "insertId": "692e368100049c524361b686",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8972 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.302162Z"
+  },
+  {
+    "insertId": "692e368100049b4723f8fe5c",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140514622749507 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.301895Z"
+  },
+  {
+    "insertId": "692e36810004467ec9571019",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8970 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.280190Z"
+  },
+  {
+    "insertId": "692e3681000445b26bfe97da",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17159919604709435 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.279986Z"
+  },
+  {
+    "insertId": "692e36810003f4ecea78d7b9",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8966 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.259308Z"
+  },
+  {
+    "insertId": "692e36810003f4263df52539",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144833789765819 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.259110Z"
+  },
+  {
+    "insertId": "692e368100039f62f8c540c7",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8956 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.237410Z"
+  },
+  {
+    "insertId": "692e368100039e6adc10f814",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146827268994856 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.237162Z"
+  },
+  {
+    "insertId": "692e368100034521b62885ae",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8952 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.214305Z"
+  },
+  {
+    "insertId": "692e36810003444d0aa59e33",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17139819834434471 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.214093Z"
+  },
+  {
+    "insertId": "692e36810002e976795929fb",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8936 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.190838Z"
+  },
+  {
+    "insertId": "692e36810002e8aa2dd5be9b",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17123777983291528 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.190634Z"
+  },
+  {
+    "insertId": "692e36810002962700f8d185",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8928 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.169511Z"
+  },
+  {
+    "insertId": "692e368100029549145fd358",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17146325236653435 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.169289Z"
+  },
+  {
+    "insertId": "692e368100023f7b42c3a0a8",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8912 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.147323Z"
+  },
+  {
+    "insertId": "692e368100023ea48854281f",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144078460611481 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.147108Z"
+  },
+  {
+    "insertId": "692e36810001e3aeddb9c65e",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8896 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.123822Z"
+  },
+  {
+    "insertId": "692e36810001e2a3be7f9144",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144709391331035 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.123555Z"
+  },
+  {
+    "insertId": "692e36810001868a9ec34f2d",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8890 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.099978Z"
+  },
+  {
+    "insertId": "692e3681000185a7e0190f28",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17141473153888803 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.099751Z"
+  },
+  {
+    "insertId": "692e36810001178121828bff",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.390964577Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8884 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.071553Z"
+  },
+  {
+    "insertId": "692e36810001169a8f8359c8",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.391796326Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144756908138973 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.071322Z"
+  },
+  {
+    "insertId": "692e36810000c1ead531dbff",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.061205812Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8882 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.049642Z"
+  },
+  {
+    "insertId": "692e36810000c1226a42e6a6",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.057348883Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17138453226502075 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.049442Z"
+  },
+  {
+    "insertId": "692e3681000064eb438bd5fb",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.061205812Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8878 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.025835Z"
+  },
+  {
+    "insertId": "692e36810000642bd0873267",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.057348883Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17142976560603799 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.025643Z"
+  },
+  {
+    "insertId": "692e368100000c0050db9530",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.061205812Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8874 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:49.003072Z"
+  },
+  {
+    "insertId": "692e368100000b1ad9ebac18",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.057348883Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17141321656805133 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:49.002842Z"
+  },
+  {
+    "insertId": "692e3680000ef7dfef877972",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.061205812Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8862 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:48.980959Z"
+  },
+  {
+    "insertId": "692e3680000ef6ff0d0c38f9",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.057348883Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17144839713512127 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:48.980735Z"
+  },
+  {
+    "insertId": "692e3680000ea3a79c92b574",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstdout",
+    "receiveTimestamp": "2025-12-02T00:44:49.061205812Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:     169.254.169.126:8860 - \"POST /ingest HTTP/1.1\" 202 Accepted",
+    "timestamp": "2025-12-02T00:44:48.959399Z"
+  },
+  {
+    "insertId": "692e3680000ea2d408ae6dbc",
+    "labels": {
+      "instanceId": "0014778296c302c794d95748a7cee30ef70c8e4f5d1197b90786ad4d8414a5e25766d05513bc0d865a2f5e3f560448e989da707519db19e71d3fcc174143b46725e5a03c644472d3b1a2766885b5ab"
+    },
+    "logName": "projects/memory-machines-project/logs/run.googleapis.com%2Fstderr",
+    "receiveTimestamp": "2025-12-02T00:44:49.057348883Z",
+    "resource": {
+      "labels": {
+        "configuration_name": "ingestion-api",
+        "location": "us-central1",
+        "project_id": "memory-machines-project",
+        "revision_name": "ingestion-api-00001-s27",
+        "service_name": "ingestion-api"
+      },
+      "type": "cloud_run_revision"
+    },
+    "textPayload": "INFO:main:Published message 17140375677044836 for tenant load_test",
+    "timestamp": "2025-12-02T00:44:48.959188Z"
+  }
+]
