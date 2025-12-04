@@ -22,7 +22,7 @@ Event-driven pipeline that ingests logs via HTTP, processes asynchronously, and 
 
 ### System Overview
 
-![System Architecture](Documentation/Architecture.png)
+![System Architecture](Architecture.png)
 
 ### Components
 
@@ -625,4 +625,3 @@ gcloud run services update log-worker --timeout=600s
 - Applied during worker processing
 - Original preserved in `original_text` field
 - Redacted version in `modified_data` field
-
