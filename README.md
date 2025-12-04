@@ -296,15 +296,4 @@ Cloud Run scales from 0 to 10 instances automatically. Pay only for actual usage
 **Bhagyashri Avinash Pagar**
 
 - Email: bpagar14@gmail.com
-- LinkedIn: [bhagyashri-pagar](https://www.linkedin.com/in/bhagyashri-pagar/)
-- GitHub: [ER-Bhagyashri-Pagar](https://github.com/ER-Bhagyashri-Pagar)
 
----
-
-## 📄 License
-
-This project was built as a take-home assignment for Memory Machines Backend Engineering Co-Op position (January 2026).
-
----
-
-**Memory Machines Backend Engineering Assignment | December 2024**
